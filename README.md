@@ -1,6 +1,6 @@
 # Портфолио
 
-[![Яндекс.Практикум](https://github.com/I-Prokofev/Yandex.Practicum_projects/blob/main/Yandex%20Practicum_logo.jpeg)](https://praktikum.yandex.ru/)
+[![Яндекс.Практикум](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/yp_logo.jpeg)](https://praktikum.yandex.ru/)
 
 Ниже представлен список проектов выполненных во время прохождения обучения на курсах Яндекс Практикум, специальность "Аналитик данных"
 
