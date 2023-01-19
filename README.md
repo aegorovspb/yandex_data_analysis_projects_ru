@@ -10,6 +10,8 @@
 
 [Анализ мобильной игры "Космические братья"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/11_space_brothers.ipynb)
 
+[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
+
 
 Название проекта |	Цель проекта	| Используемые библиотеки и инструменты
 -----------------|------------|------------------------
@@ -25,3 +27,4 @@
 [Оценка результатов А/В теста. Воронка продаж ](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/10_ab_test_analysis_sales_funnel.ipynb) | Оценка корректности проведения A/B-теста и анализ его результатов | *Pandas, Seaborn, Numpy, Scipy, Matplotlib, Plotly*
 [Анализ мобильной игры "Космические братья" ](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/11_space_brothers.ipynb) |  В ходе исследовани Было решено две главные задачи: анализ поведения пользователей в зависимости от источника перехода, разработка рекомендаций для построения монетизации игры | *Pandas, Numpy, Scipy, Matplotlib, Plotly*
 [Проект "Книжное дело" ](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/12_SQL.ipynb) |Реализация выгрузок из БД, содержащей информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг, в соответствии с запросами заказчика | *Pandas, SQL*
+[Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation) | Presentation for project "Sales funnel". | *Adobe Illustrator*
