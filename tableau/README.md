@@ -8,4 +8,4 @@
 - по количеству посещений
 - по заголовкам карточек
 
-[![Presentation_01](https://github.com/aegorovspb/yandex_data_analyst_projects_ru/blob/main/tableau/dash_board.jpg)](https://github.com/aegorovspb/)
+[![Presentation_01](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/tableau/dash%20board.jpg)](https://github.com/aegorovspb/)
