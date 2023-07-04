@@ -1,0 +1,40 @@
+                                name platform  year_of_release         genre  \
+0                         Wii Sports      Wii           2006.0        Sports   
+1                  Super Mario Bros.      NES           1985.0      Platform   
+2                     Mario Kart Wii      Wii           2008.0        Racing   
+3                  Wii Sports Resort      Wii           2009.0        Sports   
+4           Pokemon Red/Pokemon Blue       GB           1996.0  Role-Playing   
+...                              ...      ...              ...           ...   
+16708  Samurai Warriors: Sanada Maru      PS3           2016.0        Action   
+16709               LMA Manager 2007     X360           2006.0        Sports   
+16710        Haitaka no Psychedelica      PSV           2016.0     Adventure   
+16711               Spirits & Spells      GBA           2003.0      Platform   
+16712            Winning Post 8 2016      PSV           2016.0    Simulation   
+
+       na_sales  eu_sales  jp_sales  other_sales  critic_score  user_score  \
+0         41.36     28.96      3.77         8.45          76.0         8.0   
+1         29.08      3.58      6.81         0.77           NaN         NaN   
+2         15.68     12.76      3.79         3.29          82.0         8.3   
+3         15.61     10.93      3.28         2.95          80.0         8.0   
+4         11.27      8.89     10.22         1.00           NaN         NaN   
+...         ...       ...       ...          ...           ...         ...   
+16708      0.00      0.00      0.01         0.00           NaN         NaN   
+16709      0.00      0.01      0.00         0.00           NaN         NaN   
+16710      0.00      0.00      0.01         0.00           NaN         NaN   
+16711      0.01      0.00      0.00         0.00           NaN         NaN   
+16712      0.00      0.00      0.01         0.00           NaN         NaN   
+
+      rating_esrb  sum_sales  
+0               E      82.54  
+1              ND      40.24  
+2               E      35.52  
+3               E      32.77  
+4              ND      31.38  
+...           ...        ...  
+16708          ND       0.01  
+16709          ND       0.01  
+16710          ND       0.01  
+16711          ND       0.01  
+16712          ND       0.01  
+
+[16713 rows x 12 columns]
