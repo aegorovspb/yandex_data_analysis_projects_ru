@@ -2,19 +2,26 @@
 
 [![Яндекс.Практикум](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/blob/main/yp_logo.jpeg)](https://praktikum.yandex.ru/)
 
-Ниже представлен список проектов выполненных во время прохождения обучения на курсах Яндекс Практикум, специальность "Аналитик данных"
+Ниже представлен список проектов выполненных во время прохождения обучения на курсах Яндекс Практикум, специальность "Аналитик данных".
 
-Отдельно хочу выделить два проекта, показавшихся мне наиболее интересными:
+Отдельно хочу выделить два проекта выполненых в ходе обучения на Яндекс Практикуме, показавшихся мне наиболее интересными:
 
 [Рассчет CR, LTV, ROI. Анализ приложения Procrastinate Pro+](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/05_procrastinate_app_analysis.ipynb)
 
 [Анализ мобильной игры "Космические братья"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/11_space_brothers.ipynb)
 
-Выполнена презентация на основе проекта "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста. Все графики были переработаны для создания общей стилистики презентации.
+Выполнена презентация на основе проекта "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста.
+Презентация выполнения в подчеркнутом деловом стиле, ради этого были переработаны все используемые графики.
 
 [Presentation "SALE FUNNEL"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/08_aab_test_presentation)
 
 [Проект "Мобильное приложение 'Продукты'". Анализ результатов A/A/B-теста"](https://github.com/aegorovspb/yandex_data_analysis_projects_ru/blob/main/08_aab_test_app.ipynb)
+
+Две небольшие учебные презентаци по работе с BI-системами.
+
+[Presentation "Tableau DashBoard"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/tableau)
+
+[Presentation "POWER BI"](https://github.com/aegorovspb/yandex_data_analyst_projects_eng/tree/main/power_bi)
 
 
 Название проекта |	Цель проекта	| Используемые библиотеки и инструменты
